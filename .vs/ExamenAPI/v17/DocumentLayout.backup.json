@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\torre\\Escritorio\\VisualStudio\\ExamenAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0CB108-0395-4AA5-B794-FB939E5BB84A}|ExamenAPI\\ExamenAPI.csproj|c:\\users\\torre\\escritorio\\visualstudio\\examenapi\\examenapi\\controllers\\registroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0CB108-0395-4AA5-B794-FB939E5BB84A}|ExamenAPI\\ExamenAPI.csproj|solutionrelative:examenapi\\controllers\\registroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrosController.cs",
+              "DocumentMoniker": "C:\\Users\\torre\\Escritorio\\VisualStudio\\ExamenAPI\\ExamenAPI\\Controllers\\RegistrosController.cs",
+              "RelativeDocumentMoniker": "ExamenAPI\\Controllers\\RegistrosController.cs",
+              "ToolTip": "C:\\Users\\torre\\Escritorio\\VisualStudio\\ExamenAPI\\ExamenAPI\\Controllers\\RegistrosController.cs",
+              "RelativeToolTip": "ExamenAPI\\Controllers\\RegistrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T01:14:23.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
